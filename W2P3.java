@@ -2,6 +2,7 @@ public class W2P3 {
     public class ControlStructuresII {
         public static void main(String[] args) {
             printPrimesUpTo(100);
+
         }
 
         public static int threeAndSeven(int n) {
