@@ -1,2 +1,2 @@
 # PGdP_Preparation
-Preparation for the first PGdP Miniklausur
+Preparation for the PGdP Miniklausuren - Präsenzübungen
